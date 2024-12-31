@@ -17,11 +17,10 @@ Currently based in **Gurugram, Haryana, India**, I am a Python enthusiast focuse
 
 ## Top Projects
 
-- [Portfolio-Website](https://github.com/sparsh0106/Portfolio-Website) - My Custom Portfolio website using Streamlit. ⭐ 0 Stars | Language: Python | Forks: 0 | Issues: 0
 - [Regression-Analysis-of-Ecommerce-Customers](https://github.com/sparsh0106/Regression-Analysis-of-Ecommerce-Customers) - Regression Analysis of Ecommerce Customers Dataset using Linear Regression and XGBRegressor. ⭐ 4 Stars | Language: Jupyter Notebook | Forks: 0 | Issues: 0
-- [SparshGPT](https://github.com/sparsh0106/SparshGPT) - Web based AI-powered chat bot - SparshGPT. ⭐ 2 Stars | Language: Python | Forks: 0 | Issues: 0
 - [TAAS-Bot](https://github.com/sparsh0106/TAAS-Bot) - Custom Discord Bot. ⭐ 3 Stars | Language: Python | Forks: 0 | Issues: 0
-- 
+- [SparshGPT](https://github.com/sparsh0106/SparshGPT) - Web based AI-powered chat bot - SparshGPT. ⭐ 2 Stars | Language: Python | Forks: 0 | Issues: 0
+- [Portfolio-Website](https://github.com/sparsh0106/Portfolio-Website) - My Custom Portfolio website using Streamlit. ⭐ 0 Stars | Language: Python | Forks: 0 | Issues: 0
 ## GitHub Stats
 
 📊 **Public Repositories**: 25  
