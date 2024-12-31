@@ -1,59 +1,47 @@
-<h2 align="left">Hi 👋! My name is Sparsh and I'm a robotics enthusiast and a programmer, from India!</h2>
+## Hi there! 👋
 
-###
+Hi, I'm **Sparsh**, a sophomore student studying Robotics & AI Engineering at Thapar Institute of Engineering and Technology. I’m passionate about solving complex problems through technology, particularly in robotics, AI, and automation.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sparsh0106&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sparsh0106&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&custom_title=Most%20used%20Languages" height="150" alt="languages graph"  />
-</div>
+I have a strong foundation in Python and enjoy working on hands-on projects, from machine learning algorithms to building robotic systems. Currently, I’m exploring autonomous systems and AI-human collaboration.
 
-###
+I’m always eager to learn and collaborate on innovative projects, and I’m excited to contribute to the future of robotics and AI.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/sparsh0106/count.svg?"  />
-</div>
+## About Me
 
-###
+Currently based in **Gurugram, Haryana, India**, I am a Python enthusiast focused on automation. I enjoy exploring technologies that make life easier through coding. My email is [5p4r584g4rw4l0106@gmail.com](mailto:5p4r584g4rw4l0106@gmail.com).
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
+## Skills & Technologies
 
-###
 
-<br clear="both">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## Top Projects
 
-###
+- [Portfolio-Website](https://github.com/sparsh0106/Portfolio-Website) - My Custom Portfolio website using Streamlit. ⭐ 0 Stars | Language: Python | Forks: 0 | Issues: 0
+- [Regression-Analysis-of-Ecommerce-Customers](https://github.com/sparsh0106/Regression-Analysis-of-Ecommerce-Customers) - Regression Analysis of Ecommerce Customers Dataset using Linear Regression and XGBRegressor. ⭐ 4 Stars | Language: Jupyter Notebook | Forks: 0 | Issues: 0
+- [SparshGPT](https://github.com/sparsh0106/SparshGPT) - Web based AI-powered chat bot - SparshGPT. ⭐ 2 Stars | Language: Python | Forks: 0 | Issues: 0
+- [Machine-Learning-Prediction-Model-with-GUI-by-Sparsh](https://github.com/sparsh0106/Machine-Learning-Prediction-Model-with-GUI-by-Sparsh) - ML Model (with GUI). ⭐ 3 Stars | Language: Python | Forks: 0 | Issues: 0
+- [Books](https://github.com/sparsh0106/Books) - Books related to AI/ML/DL/GENAI. ⭐ 0 Stars | Language: N/A | Forks: 0 | Issues: 0
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## GitHub Stats
 
-###
+📊 **Public Repositories**: 25  
+👥 **Followers**: 11  
+👤 **Following**: 9  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparsh0106&show_icons=true&theme=radical)
 
-<br clear="both">
+## Recent Activity
 
-<img src="https://raw.githubusercontent.com/sparsh0106/sparsh0106/output/snake.svg" alt="Snake animation" />
+Here are some of my latest activities on GitHub:
+- **Pushed to** [Portfolio-Website](https://github.com/sparsh0106/Portfolio-Website) - Created README.md
+- **Pushed to** [Regression-Analysis-of-Ecommerce-Customers](https://github.com/sparsh0106/Regression-Analysis-of-Ecommerce-Customers) - Added files via upload
+- **Created a new branch** in [SparshGPT](https://github.com/sparsh0106/SparshGPT)
+- **Updated** [Machine-Learning-Prediction-Model-with-GUI-by-Sparsh](https://github.com/sparsh0106/Machine-Learning-Prediction-Model-with-GUI-by-Sparsh) - Added new features
+- **Pushed to** [Books](https://github.com/sparsh0106/Books) - Updated book list.
 
-###
+## Latest Blog Posts
 
-<div align="center">
-  <img src="?theme=dark" alt="Widget with the current Spotify song"  />
-</div>
+Currently, I don't have any blog posts to share, but I plan to start writing soon!
 
-###
+## Connect with Me
+
+{}
