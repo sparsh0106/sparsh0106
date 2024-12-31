@@ -12,6 +12,7 @@ Currently based in **Gurugram, Haryana, India**, I am a Python enthusiast focuse
 
 ## Skills & Technologies
 
+[![My Skills](https://skillicons.dev/icons?i=py,pycharm,anaconda,c,discord,sklearn&perline=8)](https://skillicons.dev)
 
 
 ## Top Projects
