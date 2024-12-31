@@ -44,5 +44,5 @@ Currently, I don't have any blog posts to share, but I plan to start writing soo
 
 ## Connect with Me
 
-Email: [5p4r584g4rw4l0106@gmail.com](mailto:5p4r584g4rw4l0106@gmail.com)
+Email: [5p4r584g4rw4l0106@gmail.com](mailto:5p4r584g4rw4l0106@gmail.com)\n
 Contact: +91 9312422987
