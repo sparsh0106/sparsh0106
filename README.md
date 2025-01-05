@@ -28,19 +28,6 @@ Currently based in **Gurugram, Haryana, India**, I am a Python enthusiast focuse
 👤 **Following**: 9  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparsh0106&show_icons=true&theme=radical)
 
-## Recent Activity
-
-Here are some of my latest activities on GitHub:
-- **Pushed to** [Portfolio-Website](https://github.com/sparsh0106/Portfolio-Website) - Created README.md
-- **Pushed to** [Regression-Analysis-of-Ecommerce-Customers](https://github.com/sparsh0106/Regression-Analysis-of-Ecommerce-Customers) - Added files via upload
-- **Created a new branch** in [SparshGPT](https://github.com/sparsh0106/SparshGPT)
-- **Updated** [Machine-Learning-Prediction-Model-with-GUI-by-Sparsh](https://github.com/sparsh0106/Machine-Learning-Prediction-Model-with-GUI-by-Sparsh) - Added new features
-- **Pushed to** [Books](https://github.com/sparsh0106/Books) - Updated book list.
-
-## Latest Blog Posts
-
-Currently, I don't have any blog posts to share, but I plan to start writing soon!
-
 ## Connect with Me
 
 - Email: [5p4r584g4rw4l0106@gmail.com](mailto:5p4r584g4rw4l0106@gmail.com)
