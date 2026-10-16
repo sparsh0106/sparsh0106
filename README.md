@@ -41,3 +41,4 @@ Built a dual-stream model that combines temporal EEG signals with spectral bandp
 ---
 
 I’m interested in research and engineering opportunities in **robotics, embodied AI, VLA systems, and deep learning**.
+
